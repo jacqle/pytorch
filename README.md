@@ -1,2 +1,2 @@
 # pytorch
- Some of my PyTorch endeavors and other NLP-related code 
+Fun with PyTorch and other NLP-related code 
